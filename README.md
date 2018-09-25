@@ -1,6 +1,7 @@
 # IUIU-Js-challenge
 #### [Python Answers for this challenge](https://github.com/byarustev/iuiu_python_challenge)
 #### [PHP Answers for this challenge](https://github.com/reiosantos/iuiu)
+#### [Java answers for this challenge](https://github.com/huxaiphaer/iuiu-code-challenge)
 ## Sample questions that are answered
 1. Write a program to display the current day and time in the following format. Sample Output : Today is : Tuesday. 
     Current time is : 10 PM : 30 : 38.
